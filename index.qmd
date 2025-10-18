@@ -1,0 +1,29 @@
+---
+title: "Hiroki Kobayashi"
+about:
+  id: hero-heading
+  template: trestles
+  image: images/profile.jpg
+  links:
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.co.jp/citations?hl=ja&user=W53WuY8AAAAJ
+    - icon: globe
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Hiroki-Kobayashi-9
+    - icon: globe
+      text: ORCID
+      href: https://orcid.org/0000-0003-3597-1328
+    - icon: linkedin
+      text: LinkedIn
+      href: https://jp.linkedin.com/in/hiroki-kobayashi-71a925323
+---
+:::{#hero-heading}
+
+I am a researcher in structural optimization, with a background in computational mechanics and mathematical optimization.
+
+My recent research focuses on differentiable physics simulation, especially for dynamic objects such as soft robots.
+
+I am also interested in fabrication-oriented design, including 3D and 4D printing technologies that bridge computation and physical realization.
+
+*This is a personal website, and the views expressed here do not represent any organization or institution.*

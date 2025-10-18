@@ -1,0 +1,25 @@
+---
+title: "Publications"
+link-citations: true
+csl:  data/ieee_csl.csl
+bibliography:
+  journal:  data/journal_all_sorted.bib
+  intl:     data/Conference_Intl_all_sorted.bib
+  domestic: data/Conference_jp_all_sorted.bib
+
+# 各 .bib の全件を出したい場合
+nocite: |
+  @*
+---
+
+## Journal Articles
+::: {#refs-journal}
+:::
+
+## International Conferences
+::: {#refs-intl}
+:::
+
+## Domestic Conferences
+::: {#refs-domestic}
+:::

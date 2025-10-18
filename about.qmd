@@ -1,0 +1,42 @@
+---
+title: "About"
+---
+:::{#hero-heading}
+## Education
+
+Graduate school of Engineering, The University of Osaka | Osaka, Japan  
+Master of Engineering | April 2018 - March 2020
+
+School of Engineering, The University of Osaka | Osaka, Japan  
+Bachelor of Engineering | April 2016 (transfer admission from third-year student) - March 2018
+
+Mechanical Engineering Dept., National Institute of Technology, Akashi College | Hyogo, Japan  
+Foundation degree | April 2011 - March 2016
+
+## Work Experience
+
+Toyota Central R&D Labs., Inc. | April 2020 - present
+
+## Awards
+
+* Certificate of Merit for Best Technological Presentation, JSME Computational Mechanics Division, 2023
+
+* Hatakeyama Award, The Japan Society of Mechanical Engineers, 2018
+
+* Representative of the Graduates, National Institute of Technology, Akashi College, 2016
+
+## Others
+
+### Memberships
+
+* The Japan Society of Mechanical Engineers
+
+### Peer-Review Activities
+
+* [Structural and Multidisciplinary Optimization](https://link.springer.com/journal/158)
+
+* [International Journal for Numerical Methods in Engineering](https://onlinelibrary.wiley.com/journal/10970207)
+
+* [International Journal of Heat and Mass Transfer](https://www.sciencedirect.com/journal/international-journal-of-heat-and-mass-transfer)
+
+:::

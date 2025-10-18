@@ -1,0 +1,13 @@
+---
+title: "Others"
+---
+:::{#hero-heading}
+## Hobbies
+I enjoy making things, including woodworking and plastic model kits. I also like playing video games, cooking, and exploring good coffee and craft beer.
+
+## Contest participation
+
+* Kosen Design Competition — Additive Manufacturing Division, 2015
+* Kansai University BIz Plan Competition (KUBIC) 2014
+    * Qualified for the Second Round
+* Global Enterprise Challenge (GEC) 2014

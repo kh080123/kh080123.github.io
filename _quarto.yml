@@ -1,0 +1,27 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: zephyr
+    css: styles.scss
+
+website:
+  title: "Hiroki Kobayashi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: publications.qmd
+        text: Publications
+      - href: others.qmd
+        text: Others
+
+filters:
+  - multibib
+
+validate-yaml: false
