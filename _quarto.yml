@@ -5,6 +5,8 @@ format:
   html:
     theme: zephyr
     css: styles.scss
+    include-in-header: gtm_code_head.html
+    include-before-body: gtm_code_body.html
 
 website:
   title: "Hiroki Kobayashi"
