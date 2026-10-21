@@ -4,6 +4,9 @@ title: "About"
 :::{#hero-heading}
 ## Education
 
+Department of Advanced Interdisciplinary Studies, Graduate School of Engineering, The University of Tokyo | Tokyo, Japan  
+Doctoral Program | April 2026 - present
+
 Graduate school of Engineering, The University of Osaka | Osaka, Japan  
 Master of Engineering | April 2018 - March 2020
 
